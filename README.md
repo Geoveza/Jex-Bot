@@ -1,0 +1,2 @@
+# Jex-Bot
+INI BOT YA GAN
